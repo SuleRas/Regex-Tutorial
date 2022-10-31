@@ -55,6 +55,8 @@ Character Classes is used to distinguish different types of characters. For exam
 
 # Author
 
-In the process of being a software developer. (If you'd like to learn more about regex check these two websites: https://ihateregex.io/ and https://regexr.com/)
+In the process of being a software developer.
+(If you'd like to learn more about regex check these two websites: https://ihateregex.io/ and https://regexr.com/)
+
 Suleiman Mohamud: https://github.com/SuleRas
 Link:
